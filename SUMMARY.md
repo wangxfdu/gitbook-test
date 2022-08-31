@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [介绍](README.md)
 
 ## Chapter 1
 
